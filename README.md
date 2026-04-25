@@ -20,7 +20,7 @@
 ## 🧠 Technologies
 - HTML  
 - CSS  
-- Python (basics)  
+- Python  
 
 ---
 
