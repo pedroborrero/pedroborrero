@@ -15,7 +15,7 @@ I'm currently learning web development and building projects using HTML, CSS and
 ## Technologies
 - HTML
 - CSS
-- Python (basics)
+- Python
 
 ## Contact
 - LinkedIn (coming soon)
