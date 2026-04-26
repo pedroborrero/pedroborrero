@@ -3,6 +3,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+[View Project](https://pedroborrero.github.io/saas-pricing-cards/)
+
+---
+
 ## 🚀 What I'm doing
 - Building SaaS-style interfaces  
 - Practicing modern web design  
