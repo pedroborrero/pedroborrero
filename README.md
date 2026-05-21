@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-[View Project](https://pedroborrero.github.io/saas-pricing-cards/)
+[View Project](https://pedroborrero.github.io/pedroborrero_portfolio-cards/)
 
 ---
 
